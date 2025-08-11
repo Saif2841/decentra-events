@@ -41,7 +41,7 @@ Follow these instructions to get a local copy up and running for development and
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[YourUsername]/decentra-events.git
+    git clone https://github.com/Saif2841/decentra-events.git
     cd decentra-events
     ```
 
