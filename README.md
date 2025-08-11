@@ -1,7 +1,5 @@
 # DecentraEvents: A Decentralized Event Ticketing Platform
 
-![DecentraEvents Hero Image](https://i.imgur.com/your-image-url.png ) 
-<!-- Create a cool hero image for your project and upload it to a site like imgur.com -->
 
 > A modern, secure, and transparent event ticketing platform built on Next.js and the blockchain. DecentraEvents leverages NFT technology to eliminate fraud, reduce scalping, and give true ownership of tickets to the attendees.
 
@@ -107,8 +105,3 @@ Please fork the repo and create a pull request. You can also simply open an issu
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-[Your Name] - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle ) - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/[YourUsername]/decentra-events](https://github.com/[YourUsername]/decentra-events )
